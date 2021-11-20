@@ -18,9 +18,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  zhihu: '小甜心',
+ 
   github: 'fangshuhong11',
-  douban: '',
+
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
